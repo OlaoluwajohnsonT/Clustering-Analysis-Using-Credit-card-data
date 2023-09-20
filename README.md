@@ -2,7 +2,7 @@
 Performing Clustering Analysis on Credit Card data
 
 
-#INTRODUCTION
+# INTRODUCTION
 
 
 In this project, I will perform clustering analysis on a dataset containing information about credit card customers. The dataset consists of 8,950 entries, each representing a customer, and includes 18 columns with various features such as balance, purchase history, credit limits, and more.
